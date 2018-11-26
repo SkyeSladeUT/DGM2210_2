@@ -649,6 +649,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: GRASS
+    second: {fileID: 2100000, guid: 2b96677ccc696b641aaa9019dd408cd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Ground
     second: {fileID: 2100000, guid: 8220789e2cb3743408f7ee3e6809395b, type: 2}
   - first:
